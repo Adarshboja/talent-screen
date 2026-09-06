@@ -2,7 +2,6 @@
 
 TalentScreen is a responsive recruitment platform that streamlines candidate applications and AI-powered resume screening through an automated n8n workflow.
 
-![TalentScreen homepage](public/assets/talentscreen-home.png)
 
 ## Features
 
